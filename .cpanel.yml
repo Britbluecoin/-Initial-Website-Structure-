@@ -5,6 +5,7 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp about.html $DEPLOYPATH
     - /bin/cp charity.html $DEPLOYPATH
+    - /bin/cp treasury.html $DEPLOYPATH
     - /bin/cp faq.html $DEPLOYPATH
     - /bin/cp litepaper.html $DEPLOYPATH
     - /bin/cp roadmap.html $DEPLOYPATH
